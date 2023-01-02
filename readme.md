@@ -14,7 +14,7 @@ When you complete these steps, you can test if ansible is working with the test-
 
 * vars folder contains the vars files required for ansible playbook to play.
 
-vpc_setup.yml playbook include;
+vpc_setup.yml playbook contains;
 
 * VPC Play
 * Subnets Play
