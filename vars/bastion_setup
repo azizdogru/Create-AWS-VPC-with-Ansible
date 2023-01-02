@@ -1,0 +1,5 @@
+bastion_ami: ami-0b5eea76982371e91 # Amazon Linux-2 AMI-ID from us-east-1 region
+region: us-east-1
+MYIP: 44.211.204.141/32
+keyName: firstkey
+instanceType: t2.micro
